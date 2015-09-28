@@ -1,0 +1,844 @@
+[01-Jul-2015 16:55:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[01-Jul-2015 16:55:02 America/New_York] login
+
+[01-Jul-2015 16:55:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[01-Jul-2015 16:55:08 America/New_York] action
+
+[01-Jul-2015 16:57:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[01-Jul-2015 16:57:16 America/New_York] login
+
+[01-Jul-2015 16:57:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[01-Jul-2015 16:57:33 America/New_York] addLocation
+
+[01-Jul-2015 16:57:33 America/New_York] SELECT TECHNICIAN_ID FROM ITP_ONLINE WHERE TECHNICIAN_ID = '2'
+
+[01-Jul-2015 16:57:33 America/New_York] Resource id #8
+
+[01-Jul-2015 16:57:33 America/New_York] 0
+
+[01-Jul-2015 16:57:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[01-Jul-2015 16:57:41 America/New_York] addLocation
+
+[01-Jul-2015 16:57:42 America/New_York] SELECT TECHNICIAN_ID FROM ITP_ONLINE WHERE TECHNICIAN_ID = '2'
+
+[01-Jul-2015 16:57:42 America/New_York] Resource id #8
+
+[01-Jul-2015 16:57:42 America/New_York] 1
+
+[01-Jul-2015 16:57:42 America/New_York] 1
+
+[16-Jul-2015 22:58:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 22:58:05 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 22:58:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 22:58:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 22:58:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 22:58:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 22:58:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 22:59:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 22:59:31 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 22:59:31 America/New_York] PHP Stack trace:
+[16-Jul-2015 22:59:31 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 22:59:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 22:59:31 America/New_York] PHP Stack trace:
+[16-Jul-2015 22:59:31 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:00:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:00:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:00:22 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:00:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:00:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:00:35 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:00:35 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:00:35 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:00:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:00:35 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:00:35 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:01:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:01:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:01:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:01:44 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:01:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:01:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:01:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:01:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:01:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:02:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:02:48 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:02:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:02:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:02:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:02:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:02:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:05:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:05:31 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:05:31 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:05:31 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:05:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:05:31 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:05:31 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:07:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:08:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:08:39 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:39 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:39 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:08:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:39 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:39 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:08:49 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:08:49 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:08:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:08:57 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:08:57 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:57 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:57 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:08:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:08:57 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:08:57 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:09:03 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:03 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:03 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:03 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:03 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:09:12 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:12 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:12 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:12 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:12 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:12 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:09:21 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:21 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:21 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:21 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:21 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:21 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:09:29 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:29 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:29 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:09:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:09:29 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:09:29 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:11:22 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:11:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:11:45 America/New_York] PHP Warning:  Missing argument 3 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 13 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:11:45 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:11:45 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:11:45 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:11:45 America/New_York] PHP Warning:  Missing argument 4 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 13 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:11:45 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:11:45 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:11:45 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:11:45 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/classes/login.php on line 13
+[16-Jul-2015 23:11:45 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:11:45 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:11:45 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:11:45 America/New_York] PHP   3. mysqli_num_rows() /home/roaming/public_html/classes/login.php:13
+[16-Jul-2015 23:13:40 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:13:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:13:44 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:13:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:13:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:13:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:13:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:13:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:14:14 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:14:14 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:14:14 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:14 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:14 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:14:14 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:14 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:28 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:14:28 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/classes.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 3
+[16-Jul-2015 23:14:28 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:28 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/classes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 3
+[16-Jul-2015 23:14:28 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:28 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:57 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:14:57 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:14:57 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:57 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:57 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:14:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:14:57 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:14:57 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:14:57 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:15:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:15:44 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:15:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:15:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:15:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:15:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:15:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:15:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:15:52 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:15:52 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:15:52 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:15:52 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:15:52 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:15:52 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:17:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:17:21 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:17:21 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:17:21 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:17:21 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:17:21 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:17:21 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:18:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:18:09 America/New_York] PHP Warning:  Missing argument 3 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 13 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:18:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:18:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:18:09 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:18:09 America/New_York] PHP Warning:  Missing argument 4 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 13 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:18:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:18:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:18:09 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:18:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/classes/login.php on line 13
+[16-Jul-2015 23:18:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:18:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:18:09 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[16-Jul-2015 23:18:09 America/New_York] PHP   3. mysqli_num_rows() /home/roaming/public_html/classes/login.php:13
+[16-Jul-2015 23:18:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:18:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:18:48 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:18:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:18:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:18:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:18:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:18:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:19:18 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:19:18 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:19:18 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:19:18 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:19:18 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:19:18 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:19:18 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:19:18 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:19:18 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:20:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:20:05 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:20:09 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:20:39 America/New_York] PHP Warning:  require_once(/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:39 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:39 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:39 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:39 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:20:48 America/New_York] PHP Warning:  require_once(/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:20:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:20:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:20:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:21:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:21:41 America/New_York] PHP Warning:  require_once(/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:21:41 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:21:41 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:21:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:21:41 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:21:41 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:15 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:22:15 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:22:15 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:15 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:15 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:22:15 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:15 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:26 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:22:26 America/New_York] PHP Warning:  require_once(/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:22:26 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:26 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:26 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:22:26 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:26 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:22:54 America/New_York] PHP Warning:  Missing argument 3 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:22:54 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:54 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:54 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:22:54 America/New_York] PHP Warning:  Missing argument 4 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:22:54 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:54 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:54 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:22:54 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/classes/login.php on line 13
+[16-Jul-2015 23:22:54 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:22:54 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:22:54 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:22:54 America/New_York] PHP   3. mysqli_num_rows() /home/roaming/public_html/classes/login.php:13
+[16-Jul-2015 23:23:28 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:23:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:23:37 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:23:37 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:23:37 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:23:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:23:37 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:23:37 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:23:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:23:45 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:23:45 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:23:45 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:23:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:23:45 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:23:45 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:49 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:24:49 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:24:54 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:54 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:54 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:54 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:54 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:54 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:24:58 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:58 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:58 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:24:58 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:24:58 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:24:58 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:25:24 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:24 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:24 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:24 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:24 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:24 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:24 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:24 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:25:29 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:29 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:29 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:29 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:29 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:29 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:29 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:25:38 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:38 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:38 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:38 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:38 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:38 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:38 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:25:42 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:42 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:42 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:42 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:25:42 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:25:42 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:25:42 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:25:42 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:26:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:05 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:08 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:08 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:08 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:13 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:13 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:13 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:44 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:44 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:44 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:48 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:48 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:48 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:53 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:53 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:53 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:53 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:26:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:26:58 America/New_York] PHP Fatal error:  Class 'DoLogin' not found in /home/roaming/public_html/app/api.php on line 12
+[16-Jul-2015 23:26:58 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:26:58 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:27:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:27:25 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:27:25 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:27:25 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:27:25 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:27:25 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:27:25 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:27:25 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:27:25 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:27:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:27:32 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:27:32 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:27:32 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:27:32 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:27:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:27:32 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:27:32 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:27:32 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:28:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:28:07 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:28:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:28:17 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:29:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:29:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:29:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:29:49 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:29:49 America/New_York] PHP Warning:  Missing argument 3 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:29:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:29:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:29:49 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:29:49 America/New_York] PHP Warning:  Missing argument 4 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:29:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:29:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:29:49 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:29:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/classes/login.php on line 13
+[16-Jul-2015 23:29:49 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:29:49 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:29:49 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:29:49 America/New_York] PHP   3. mysqli_num_rows() /home/roaming/public_html/classes/login.php:13
+[16-Jul-2015 23:32:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:33:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:37:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:37:46 America/New_York] PHP Warning:  Missing argument 3 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:37:46 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:37:46 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:37:46 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:37:46 America/New_York] PHP Warning:  Missing argument 4 for DoLogin::login(), called in /home/roaming/public_html/app/api.php on line 15 and defined in /home/roaming/public_html/classes/login.php on line 5
+[16-Jul-2015 23:37:46 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:37:46 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:37:46 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:37:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/classes/login.php on line 13
+[16-Jul-2015 23:37:46 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:37:46 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:37:46 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:15
+[16-Jul-2015 23:37:46 America/New_York] PHP   3. mysqli_num_rows() /home/roaming/public_html/classes/login.php:13
+[16-Jul-2015 23:43:17 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:45:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:45:05 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:45:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:45:05 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:05 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:45:09 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:45:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/api.php on line 2
+[16-Jul-2015 23:45:09 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:09 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:45:33 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:45:33 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:33 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:33 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:45:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:45:33 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:45:33 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:45:33 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:06 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:46:07 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/classes/mysql.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:46:07 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:07 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:07 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:07 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/classes/mysql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/classes.php on line 2
+[16-Jul-2015 23:46:07 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:07 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:07 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:28 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:46:28 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/mysql.php on line 3
+[16-Jul-2015 23:46:28 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:28 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:28 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:28 America/New_York] PHP   3. require_once() /home/roaming/public_html/app/classes/classes.php:2
+[16-Jul-2015 23:46:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/mysql.php on line 3
+[16-Jul-2015 23:46:28 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:28 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:28 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:28 America/New_York] PHP   3. require_once() /home/roaming/public_html/app/classes/classes.php:2
+[16-Jul-2015 23:46:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:46:33 America/New_York] PHP Warning:  require_once(/home/roaming/public_html/app/app/config/config.php): failed to open stream: No such file or directory in /home/roaming/public_html/app/classes/mysql.php on line 3
+[16-Jul-2015 23:46:33 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:33 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:33 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:33 America/New_York] PHP   3. require_once() /home/roaming/public_html/app/classes/classes.php:2
+[16-Jul-2015 23:46:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/roaming/public_html/app/app/config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/roaming/public_html/app/classes/mysql.php on line 3
+[16-Jul-2015 23:46:33 America/New_York] PHP Stack trace:
+[16-Jul-2015 23:46:33 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[16-Jul-2015 23:46:33 America/New_York] PHP   2. require_once() /home/roaming/public_html/app/api.php:3
+[16-Jul-2015 23:46:33 America/New_York] PHP   3. require_once() /home/roaming/public_html/app/classes/classes.php:2
+[16-Jul-2015 23:46:53 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:47:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:47:59 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[16-Jul-2015 23:49:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 00:21:43 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:41:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:41:59 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:42:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:42:06 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:42:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:42:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 10:42:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 12:09:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 12:10:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:36:14 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:43:30 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:44:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:44:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:45:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:45:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:46:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:46:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:46:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:46:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:49:50 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:49:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:50:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 13:52:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 14:03:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Jul-2015 14:06:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 11:39:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:34:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:35:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:35:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:35:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:36:10 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 12:36:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 19:37:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 19:37:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 19:38:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:30:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:30:50 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:31:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:38:15 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:38:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:38:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:39:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 15:40:00 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:07 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:19 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:44:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:45:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:48:47 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 16:55:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:14:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:36:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 18:02:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 19:40:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:46:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:47:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:52:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:52:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 12:41:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 12:41:22 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 12:41:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:10:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:12:28 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:13:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:13:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:13:55 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:14:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:14:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:19:19 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:19:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:19:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:19:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:19:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:21:00 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:21:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:43:04 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:46:04 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:46:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:46:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:48:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:48:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:49:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:49:10 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:49:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:49:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 12:15:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 12:16:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:34:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:36:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:36:57 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:15 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:37:55 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:00 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:06 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:19 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:23 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:23 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:38:26 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 15:53:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:02:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:02:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:03:22 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:03:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:03:49 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:04:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:36:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:36:50 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:36:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:40:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 15:05:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 15:07:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 15:08:30 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 15:08:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:40 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:25:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:26:17 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 16:26:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:59:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:59:52 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/roaming/public_html/app/classes/mysql.php on line 30
+[03-Sep-2015 19:59:52 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:52 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[03-Sep-2015 19:59:52 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[03-Sep-2015 19:59:52 America/New_York] PHP   3. Mysql->dbConnect() /home/roaming/public_html/app/classes/login.php:7
+[03-Sep-2015 19:59:52 America/New_York] PHP   4. mysqli_connect() /home/roaming/public_html/app/classes/mysql.php:30
+[03-Sep-2015 19:59:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/roaming/public_html/app/classes/mysql.php on line 108
+[03-Sep-2015 19:59:52 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:52 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[03-Sep-2015 19:59:52 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[03-Sep-2015 19:59:52 America/New_York] PHP   3. Mysql->selectFreeRun() /home/roaming/public_html/app/classes/login.php:11
+[03-Sep-2015 19:59:52 America/New_York] PHP   4. mysqli_query() /home/roaming/public_html/app/classes/mysql.php:108
+[03-Sep-2015 19:59:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/roaming/public_html/app/classes/login.php on line 13
+[03-Sep-2015 19:59:52 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:52 America/New_York] PHP   1. {main}() /home/roaming/public_html/app/api.php:0
+[03-Sep-2015 19:59:52 America/New_York] PHP   2. DoLogin->login() /home/roaming/public_html/app/api.php:13
+[03-Sep-2015 19:59:52 America/New_York] PHP   3. mysqli_fetch_assoc() /home/roaming/public_html/app/classes/login.php:13
+[26-Sep-2015 22:05:40 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:05:45 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:05:51 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:06:48 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:06:52 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:07:12 UTC] PHP Fatal error:  Cannot redeclare class dbconfig in /home/roaming/public_html/config/config.php on line 12
+[26-Sep-2015 22:08:20 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:10:19 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:13:17 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:14:37 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:14:51 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[26-Sep-2015 22:16:02 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 14:03:18 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 14:16:34 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 14:22:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 14:22:22 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 14:28:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 14:28:31 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:13:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:13:49 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:22:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:22:17 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:22:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:22:20 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:23:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:23:53 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:25:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:25:55 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/app/classes/mysql.php on line 30
+[27-Sep-2015 15:47:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:47:16 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:47:16 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:47:16 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:47:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:47:30 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:47:30 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:47:30 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:48:34 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:34 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:34 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:34 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/roaming/public_html/app/classes/login.php on line 11
+[27-Sep-2015 15:48:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:48:41 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:41 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:48:41 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:49:06 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:49:14 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:14 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:49:14 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:50:04 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:04 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:04 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:50:14 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:14 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:50:14 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:52:27 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:27 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:27 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/php_mysqli.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Sep-2015 15:52:39 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:39 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[27-Sep-2015 15:52:39 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
